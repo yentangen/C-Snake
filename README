@@ -1,0 +1,13 @@
+C_Snake
+================================
+================================
+
+Created by: Tang-En Yen
+Date Started: May 12, 2013
+Date of Dawn (Initial) Commit: October 25, 2013
+
+Snake written in C using Bloodshed Dev-C++ on Windows platform.
+No external libraries (in Windows context) were used - this 
+implementation of snake uses standard libraries only.
+
+***Placeholder README file***
